@@ -2,6 +2,7 @@
     "version": "0.1",
     "description": "Network of Trusted Networks - Event Schemas",
   "schemas": {
+    "identifierChanged": "https://network-of-trusted-networks.github.io/event-schemas/v0.1/id-changed.json",
     "airwayBill": "https://network-of-trusted-networks.github.io/event-schemas/v0.1/awb.json"
   }
 }
