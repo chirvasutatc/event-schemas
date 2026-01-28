@@ -1,9 +1,24 @@
 {
-    "version": "0.1",
-    "description": "Network of Trusted Networks - Event Schemas",
+  "version": "0.1",
+  "description": "Network of Trusted Networks - Event Schemas",
   "schemas": {
-    "identifierChanged": "https://network-of-trusted-networks.github.io/event-schemas/v0.1/id-changed.json",
-    "airwayBill": "https://network-of-trusted-networks.github.io/event-schemas/v0.1/awb.json"
+    "identifierChanged": "https://network-of-trusted-networks.github.io/event-schemas/v0.1/idc.json",
+    "purchaseOrderFromSalesOrder": "https://network-of-trusted-networks.github.io/event-schemas/v0.1/rft.json",
+    "exportDocsPouch": "https://network-of-trusted-networks.github.io/event-schemas/v0.1/rft.json",
+    "bookedViaConsignmentNote": "https://network-of-trusted-networks.github.io/event-schemas/v0.1/bkd.json",
+    "airWaybillIssued": "https://network-of-trusted-networks.github.io/event-schemas/v0.1/fwb.json",
+    "houseAirWaybillIssued": "https://network-of-trusted-networks.github.io/event-schemas/v0.1/fhl.json",
+    "bookSlot": "https://network-of-trusted-networks.github.io/event-schemas/v0.1/bsl.json",
+    "readyForCarriage": "https://network-of-trusted-networks.github.io/event-schemas/v0.1/rcs.json",
+    "freightOnHand": "https://network-of-trusted-networks.github.io/event-schemas/v0.1/foh.json",
+    "manifested": "https://network-of-trusted-networks.github.io/event-schemas/v0.1/man.json",
+    "departed": "https://network-of-trusted-networks.github.io/event-schemas/v0.1/dep.json",
+    "arrived": "https://network-of-trusted-networks.github.io/event-schemas/v0.1/arr.json",
+    "receivedFromFlight": "https://network-of-trusted-networks.github.io/event-schemas/v0.1/cf.json",
+    "freightInWarehouse": "https://network-of-trusted-networks.github.io/event-schemas/v0.1/fiw.json",
+    "notified": "https://network-of-trusted-networks.github.io/event-schemas/v0.1/nfd.json",
+    "freightOutOfWarehouse": "https://network-of-trusted-networks.github.io/event-schemas/v0.1/fow.json",
+    "delivered": "https://network-of-trusted-networks.github.io/event-schemas/v0.1/dlv.json",
+    "importDeclarationIssued": "https://network-of-trusted-networks.github.io/event-schemas/v0.1/decl.json"
   }
 }
-  
