@@ -31,5 +31,5 @@ Contributions are welcome:
 
 ### License
 
-The content of this repository is provided under the **Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)** license (see `LICENSE` for details). This allows use, sharing, and modification for **non-commercial** purposes, provided attribution is given.
+The content of this repository is provided under the **Creative Commons Attribution 4.0 International (CC BY 4.0)** license (see `LICENSE` for details). This allows use, sharing, and modification for **any purpose, including commercial use**, provided attribution is given.
 
