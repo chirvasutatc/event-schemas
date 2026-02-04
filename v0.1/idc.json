@@ -13,6 +13,10 @@
         "type": "string",
         "pattern": "^[^:]+:[^:]+$"
       }
+    },
+    "metadata": {
+      "type": "string",
+      "description": "A string of metadata about the event."
     }
   }
 }
